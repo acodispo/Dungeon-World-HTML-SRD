@@ -1,0 +1,94 @@
+html {
+}
+body {
+   padding-top:50px;
+   color: #111111;
+   font-family: 'iABCRegular',Georgia,serif;
+   font-style: normal;
+   font-variant: normal;
+   font-weight: normal;
+   line-height: 1.52381em;
+   text-rendering: optimizelegibility;
+}
+
+nav#sidemenu {
+}
+li.active,
+li.active:hover,
+li.active:focus  {
+    background: #9CF;
+}
+li.active a,
+li.active:hover a,
+li:focus a  {
+    color: #FFF;
+}
+li ul.nav li.active,
+li ul.nav li.active:hover,
+li ul.nav li.active:focus  {
+    background: #7bd;
+}
+li ul.nav li.active a,
+li ul.nav li.active:hover a,
+li ul.nav li:focus a  {
+    color: #FFF;
+}
+
+p {
+    margin: 0 0 1.14286em;
+    text-indent:1em;
+}
+p.NoIndent {
+   text-indent:0;
+}
+
+.nav {
+   font-size:90%;
+}
+
+p.Item,p.MagicItem {
+   font-weight:bold;
+}
+span.Tags {
+   font-weight:normal;
+   font-style:italic;
+}
+p.ItemDescription {
+   margin-left:.5em;
+}
+
+p.Instructions {
+   background-color:#eee;
+   padding:.5em;
+}
+p.Requirement {
+   font-style:italic;
+}
+
+p.MoveOneLine {
+   text-indent:0;
+   margin-left:2em;
+   margin-right:2em;
+}
+
+p.ExampleDialogue,p.ExampleDialogueFirstLine,p.ExampleDialogueLastLine {
+   margin-left:2em;
+   margin-right:2em;
+   text-indent:0;
+   font-style:italic;
+}
+
+h3.MonsterName {
+   border-top:medium solid black;
+   padding-top:1em;
+}
+h3.MonsterName span.Tags {
+   font-size:70%;
+}
+
+#site-nav {
+   font-size:80%;
+}
+#site-nav input {
+   font-size:80%;
+}

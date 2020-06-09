@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Appendices on Dungeon World HTML SRD</title>
+    <link>https://acodispo.github.io/Dungeon-World-HTML-SRD/appendices/</link>
+    <description>Recent content in Appendices on Dungeon World HTML SRD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="https://acodispo.github.io/Dungeon-World-HTML-SRD/appendices/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Adventure Conversion</title>
+      <link>https://acodispo.github.io/Dungeon-World-HTML-SRD/appendices/conversion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://acodispo.github.io/Dungeon-World-HTML-SRD/appendices/conversion/</guid>
+      <description>Adventure Conversion There isn’t always time for prep. People aren’t entirely committed to a game—you just want to test it out or you’ve got a four-hour slot at a convention that you want to fill and you’ve never met the players before in your life. Maybe prep isn’t something you care about or you think it’s more fun to just take a map and run with it. Even better, maybe you’ve got a favorite old school adventure module and you’d love to run through using the Dungeon World rules.</description>
+    </item>
+    
+    <item>
+      <title>Instant NPCs</title>
+      <link>https://acodispo.github.io/Dungeon-World-HTML-SRD/appendices/npcs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://acodispo.github.io/Dungeon-World-HTML-SRD/appendices/npcs/</guid>
+      <description>Instant NPCs Sometimes the players will come across someone who becomes important in the moment. When the ritual goes wrong and a poor captive gets the power cosmic what does that villager do with it? Who were they?
+When you need a quick NPC all you need is an instinct and some way to pursue it. We call that a knack, it can be anything from a skill to a title to a debt owed.</description>
+    </item>
+    
+    <item>
+      <title>Teaching the Game</title>
+      <link>https://acodispo.github.io/Dungeon-World-HTML-SRD/appendices/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://acodispo.github.io/Dungeon-World-HTML-SRD/appendices/teaching/</guid>
+      <description>Teaching the Game Since you’ve read this book it’s likely at some point you’ll be teaching the game to others, either experienced roleplayers or those new to the hobby. Throughout the design process we’ve had many chances to play with lots of different gamers from different backgrounds and there are a few things we’ve found work well for teaching the game.
+Pitch It Before you play you’ll likely be explaining the game to your new players (don’t just spring it on them, that’s not cool).</description>
+    </item>
+    
+  </channel>
+</rss>
